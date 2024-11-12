@@ -1,1 +1,2 @@
-# AboutPageAPP_Assignment-2
+Assignment 2 - Membuat Halaman Simple tentang Diri Sendiri (UI/UX)
+Matakuliah Teknologi berkembang 
